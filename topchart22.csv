@@ -1,0 +1,150 @@
+artist_names,track_name,peak_rank,weeks_on_chart,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,tempo,time_signature,duration_ms
+Glass Animals,Heat Waves,1,65,0.761,0.525,11,-6.9,1,0.0944,0.44,6.70E-06,0.0921,80.87,four,238805
+"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),1,37,0.591,0.764,1,-5.484,1,0.0483,0.0383,0,0.103,169.928,four,141806
+Anitta,Envolver,3,3,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,91.993,four,193806
+"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,3,21,0.728,0.783,11,-4.424,0,0.266,0.237,0,0.434,77.011,four,173381
+GAYLE,abcdefu,1,19,0.695,0.54,4,-5.692,1,0.0493,0.299,0,0.367,121.932,four,168602
+"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,4,32,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25E-05,0.0915,116.032,four,202735
+"Becky G, KAROL G",MAMIII,5,6,0.843,0.7,4,-3.563,0,0.0803,0.0934,0,0.14,93.991,four,226088
+"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),2,35,0.741,0.691,10,-7.395,0,0.0672,0.0221,0,0.0476,150.087,four,212353
+"Rauw Alejandro, Chencho Corleone",Desesperados,8,15,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,90.02,four,224997
+Ed Sheeran,Shivers,4,28,0.788,0.859,2,-2.724,1,0.0856,0.281,0,0.0424,141.02,four,207853
+Doja Cat,Woman,6,37,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,107.998,four,172627
+Adele,Easy On Me,1,23,0.604,0.366,5,-7.519,1,0.0282,0.578,0,0.133,141.981,four,224695
+Justin Bieber,Ghost,11,27,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91E-05,0.415,153.96,four,153190
+"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),13,3,0.756,0.697,8,-6.377,1,0.0401,0.182,0,0.333,94.996,four,206071
+Elley Duhé,MIDDLE OF THE NIGHT,14,13,0.41,0.611,4,-8.271,0,0.0467,0.0228,0,0.116,185.727,three,184448
+Cris Mj,Una Noche en Medellín,16,4,0.87,0.548,10,-5.253,0,0.077,0.0924,4.60E-05,0.0534,96.018,four,153750
+Lil Nas X,THATS WHAT I WANT,3,27,0.737,0.846,1,-4.51,0,0.22,0.00614,0,0.0486,87.981,four,143901
+"Lost Frequencies, Calum Scott",Where Are You Now,18,29,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,120.966,four,148197
+Dove Cameron,Boyfriend,11,6,0.345,0.612,7,-6.543,0,0.0608,0.232,0,0.194,179.773,three,153000
+Ed Sheeran,Bad Habits,3,39,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79E-05,0.366,126.011,four,230747
+Jaymes Young,Infinity,11,21,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29E-05,0.304,121.963,four,237720
+Farruko,Pepas,4,37,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98E-05,0.128,130.001,four,287120
+"Tiësto, Ava Max",The Motto,23,20,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23E-05,0.0901,117.953,four,164819
+Olivia Rodrigo,good 4 u,1,45,0.563,0.664,9,-5.044,1,0.154,0.335,0,0.0849,166.928,four,178147
+"Coldplay, BTS",My Universe,3,26,0.573,0.711,1,-6.268,0,0.0406,0.0114,0,0.328,105.006,four,226198
+The Walters,I Love You So,21,24,0.575,0.648,10,-4.891,1,0.0358,0.583,0,0.115,75.977,four,160240
+The Weeknd,Blinding Lights,1,121,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54E-05,0.0897,171.005,four,200040
+"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),12,25,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78E-06,0.0865,169.888,four,207301
+"Megan Thee Stallion, Dua Lipa",Sweetest Pie,17,2,0.814,0.628,7,-7.178,1,0.221,0.167,0,0.101,123.977,four,201334
+Nirvana,Something In The Way,19,3,0.426,0.225,8,-12.422,1,0.0291,0.823,0.367,0.11,104.506,four,232204
+Tom Odell,Another Love,31,50,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95E-05,0.09,122.758,four,244360
+"ACRAZE, Cherish",Do It To It,9,21,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,124.927,four,157890
+The Neighbourhood,Sweater Weather,29,82,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,124.053,four,240400
+Bad Bunny,Yonaguni,3,42,0.644,0.648,1,-4.601,1,0.118,0.276,0,0.135,179.951,four,206710
+Doja Cat,Need to Know,6,41,0.664,0.609,1,-6.509,1,0.0707,0.304,0,0.0926,130.041,four,210560
+Ruth B.,Dandelions,35,32,0.609,0.692,1,-2.958,1,0.0259,0.0157,0,0.0864,116.959,three,233720
+"Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz, Encanto - Cast",We Don't Talk About Bruno,8,13,0.577,0.45,0,-8.516,0,0.0834,0.357,0,0.111,205.863,four,216120
+"Doja Cat, SZA",Kiss Me More (feat. SZA),3,50,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92E-05,0.12,110.97,four,208667
+Stray Kids,MANIAC,39,1,0.744,0.8,1,-2.63,1,0.266,0.181,0,0.0746,89.925,four,182758
+Charlie Puth,Light Switch,19,9,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,184.009,four,185681
+"Dua Lipa, DaBaby",Levitating (feat. DaBaby),4,77,0.702,0.825,6,-3.787,0,0.0601,0.00883,0,0.0674,102.977,four,203064
+Olivia Rodrigo,traitor,7,44,0.38,0.339,3,-7.885,1,0.0338,0.691,0,0.12,100.607,four,229227
+"The Weeknd, Ariana Grande",Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,5,48,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44E-05,0.0936,118.091,four,191014
+ROSALÍA,CANDY,44,1,0.638,0.49,4,-5.726,0,0.226,0.885,0.0116,0.156,179.905,four,193480
+Dave,Starlight,45,3,0.954,0.367,4,-9.551,0,0.288,0.341,5.48E-06,0.0979,124.026,four,211935
+The Neighbourhood,Softcore,35,11,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,93.986,four,206280
+Lil Nas X,MONTERO (Call Me By Your Name),1,52,0.593,0.503,8,-6.725,0,0.22,0.293,0,0.405,178.781,four,137704
+"PEDRO SAMPAIO, Mc Pedrinho",DANÇARINA,32,5,0.778,0.571,9,-4.776,0,0.0788,0.0423,0,0.0964,134.999,four,110222
+Eminem,Without Me,31,26,0.908,0.669,7,-2.827,1,0.0738,0.00286,0,0.237,112.238,four,290320
+"Blessd, Justin Quiles, Lenny Tavárez",Medallo,48,18,0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,90.02,four,233453
+BTS,Butter,2,44,0.759,0.459,8,-5.187,1,0.0948,0.00323,0,0.0906,109.997,four,164442
+Labrinth,Mount Everest,36,7,0.494,0.428,0,-7.239,0,0.205,0.236,0.0698,0.0816,87.724,four,157497
+Ryan Castro,Jordan,53,4,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,179.923,four,176143
+The Weeknd,Save Your Tears,2,68,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24E-05,0.543,118.051,four,215627
+Olivia Rodrigo,drivers license,1,63,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42E-05,0.106,143.875,four,242013
+"ROSALÍA, The Weeknd",LA FAMA (with The Weeknd),32,15,0.766,0.295,0,-7.893,0,0.0464,0.947,4.44E-05,0.119,136.016,four,188107
+Arctic Monkeys,505,57,12,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79E-05,0.0733,140.267,four,253587
+"La Pantera, Quevedo, Juseph, Abhir Hathi, Bejo, Cruz Cafuné, EL IMA","Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",58,8,0.672,0.745,5,-5.269,0,0.3,0.438,9.29E-06,0.0699,173.974,four,413111
+"Bad Bunny, Jhay Cortez",DÁKITI,1,73,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22E-05,0.113,109.928,four,205090
+Sebastian Yatra,Tacones Rojos,45,18,0.746,0.844,11,-3.499,0,0.0359,0.062,0,0.149,123.014,four,189333
+Demi Lovato,Cool for the Summer,61,1,0.583,0.61,5,-5.639,0,0.0382,0.00425,0.000105,0.14,114.06,four,214740
+"zzoilo, Aitana",Mon Amour - Remix,34,29,0.748,0.761,2,-6.621,1,0.102,0.122,6.56E-06,0.0984,116.041,four,179940
+Imagine Dragons,Bones,63,2,0.773,0.742,5,-3.678,0,0.046,0.0206,0,0.0754,114.071,four,165265
+Zion & Lennox,Yo Voy (feat. Daddy Yankee),63,5,0.808,0.697,10,-5.899,1,0.241,0.041,0,0.0546,95.06,four,232020
+UZI,ARASAN DA,65,1,0.742,0.832,10,-6.812,1,0.156,0.425,0.242,0.108,105.978,four,191710
+Billie Eilish,Happier Than Ever,6,34,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,81.055,three,298899
+Tate McRae,she's all i wanna be,38,7,0.614,0.644,2,-5.372,0,0.0426,0.0134,7.07E-06,0.117,160.036,four,206772
+Måneskin,Beggin',1,42,0.714,0.8,11,-4.808,0,0.0504,0.127,0,0.359,134.002,four,211560
+BoyWithUke,Toxic,23,23,0.594,0.612,8,-6.627,0,0.363,0.835,0,0.461,179.629,four,168020
+CKay,love nwantiti (ah ah ah),9,28,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,93.005,four,145800
+"Machine Gun Kelly, Bring Me The Horizon",maybe (feat. Bring Me The Horizon),72,1,0.522,0.922,5,-4.805,0,0.0616,0.000745,0,0.0976,176.105,four,170134
+Harry Styles,Watermelon Sugar,4,123,0.548,0.816,0,-4.209,1,0.0465,0.122,0,0.335,95.39,four,174000
+"BoyWithUke, blackbear",IDGAF (with blackbear),74,1,0.783,0.75,5,-5.762,1,0.078,0.426,0,0.241,97.953,four,140665
+Eden Muñoz,Chale,75,3,0.551,0.436,8,-8.029,1,0.0428,0.395,0,0.0719,188.651,three,170745
+Frank Ocean,Lost,50,10,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,123.061,four,234093
+Juice WRLD,Sometimes,77,1,0.674,0.58,8,-4.866,1,0.0311,0.0609,0,0.159,121.987,four,259672
+Tulus,Hati-Hati di Jalan,45,3,0.643,0.436,6,-11.322,1,0.0357,0.702,0.0889,0.115,71.969,four,242000
+Em Beihold,Numb Little Bug,69,8,0.742,0.527,8,-6.892,0,0.0769,0.327,0,0.25,84.974,four,169238
+Eminem,The Real Slim Shady,51,42,0.949,0.661,5,-4.244,0,0.0572,0.0302,0,0.0454,104.504,four,284200
+Bad Bunny,A Tu Merced,52,19,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,92.023,four,175918
+ROSALÍA,SAOKO,80,2,0.827,0.768,0,-5.702,1,0.265,0.79,2.45E-05,0.497,99.988,four,137533
+"Aventura, Bad Bunny",Volví,10,34,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,175.896,four,230125
+"Post Malone, The Weeknd",One Right Now (with The Weeknd),9,20,0.687,0.781,1,-4.806,1,0.053,0.0361,0,0.0755,97.014,four,193507
+Dua Lipa,Don't Start Now,2,125,0.793,0.793,11,-4.521,0,0.083,0.0123,0,0.0951,123.95,four,183290
+Olivia Rodrigo,deja vu,3,51,0.442,0.612,2,-7.222,1,0.112,0.584,5.70E-06,0.37,180.917,four,215507
+Rauw Alejandro,Todo De Ti,2,44,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,127.962,four,199604
+"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),1,53,0.677,0.696,0,-6.181,1,0.119,0.321,0,0.42,90.03,four,198082
+Adele,Oh My God,3,18,0.534,0.725,1,-3.906,1,0.046,0.091,0,0.0264,88.098,four,225149
+"AnnenMayKantereit, Giant Rooks",Tom's Diner,90,1,0.68,0.428,6,-8.107,0,0.135,0.376,0.000344,0.355,98.222,four,269333
+Kodak Black,Super Gremlin,45,15,0.825,0.414,2,-6.634,1,0.144,0.00265,0,0.357,72.993,four,200548
+Imagine Dragons,Believer,16,268,0.776,0.78,10,-4.374,0,0.128,0.0622,0,0.081,124.949,four,204347
+Lauren Spencer Smith,Fingers Crossed,17,11,0.56,0.473,5,-7.23,1,0.0533,0.618,0,0.31,109.414,four,175345
+"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,1,179,0.755,0.522,2,-4.368,1,0.0575,0.533,0,0.0685,89.96,four,157560
+The Rare Occasions,Notion,67,11,0.309,0.883,9,-3.825,1,0.0808,0.0673,0.00111,0.0849,159.488,four,195121
+Steve Lacy,Dark Red,66,33,0.603,0.783,6,-4.023,1,0.062,0.449,7.96E-06,0.119,172.041,four,173104
+"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),7,22,0.542,0.659,8,-7.289,1,0.0389,0.00279,0,0.105,120.122,four,234000
+"Jnr Choi, Sam Tompkins",TO THE MOON,55,11,0.745,0.65,2,-11.814,1,0.346,0.0451,0.00758,0.111,144.047,four,152137
+"Alejo, Feid, ROBI",Pantysito,99,1,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11E-06,0.162,97.993,four,240413
+BTS,Dynamite,2,83,0.746,0.765,6,-4.41,0,0.0993,0.0112,0,0.0936,114.044,four,199054
+"Dr. Dre, Snoop Dogg",Still D.R.E.,29,6,0.816,0.775,11,-3.323,1,0.234,0.16,0.00031,0.0543,93.431,four,270587
+Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",44,66,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,171.355,four,322227
+"Billie Eilish, Khalid",lovely (with Khalid),24,205,0.351,0.296,4,-10.109,0,0.0333,0.934,0,0.095,115.284,four,200186
+"Labrinth, Zendaya",All For Us,43,11,0.46,0.66,3,-6.642,1,0.0652,0.0108,0.000139,0.34,141.722,four,191710
+"Labrinth, Zendaya",I’m Tired (with Zendaya) - Bonus Track,29,4,0.375,0.133,0,-10.624,0,0.0352,0.651,0,0.0695,131.721,four,187944
+Paulo Londra,Plan A,106,1,0.583,0.834,0,-4.875,1,0.0444,0.0495,0,0.0658,173.935,four,178203
+Lewis Capaldi,Someone You Loved,4,168,0.501,0.405,1,-5.679,1,0.0319,0.751,0,0.105,109.891,four,182161
+LISA,MONEY,5,28,0.831,0.554,1,-9.998,0,0.218,0.161,6.12E-05,0.152,140.026,four,168228
+"Doja Cat, The Weeknd",You Right,15,39,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,128.986,four,186173
+"Bizarrap, Tiago PZK","Tiago PZK: Bzrp Music Sessions, Vol. 48",37,12,0.656,0.823,1,-3.059,0,0.315,0.47,0,0.103,96.474,four,160000
+Coldplay,Yellow,101,66,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,173.372,four,266773
+"Bad Bunny, Daddy Yankee",La Santa,14,23,0.744,0.868,1,-4.524,1,0.047,0.0326,0,0.0822,93.037,four,206420
+Jack Harlow,Nail Tech,36,5,0.677,0.557,1,-8.409,1,0.0694,0.00508,8.36E-06,0.0984,150.127,four,206385
+"Xamã, Gustah, Neo Beats",Malvadão 3,33,13,0.821,0.609,6,-6.541,0,0.268,0.378,0,0.136,133.133,four,141770
+J. Cole,No Role Modelz,113,35,0.69,0.521,10,-8.492,0,0.339,0.324,0,0.0534,100.028,four,292799
+XXXTENTACION,Revenge,63,12,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,139.999,four,120027
+Labrinth,Formula,68,10,0.574,0.664,11,-6.068,1,0.0409,0.0448,0.0553,0.146,144.654,four,91870
+TREASURE,DARARI,102,4,0.716,0.638,0,-6.87,1,0.0392,0.486,0,0.0702,84.955,four,220716
+Surf Curse,Freaks,55,47,0.345,0.941,9,-9.918,1,0.0466,3.84E-05,0.633,0.0511,179.626,four,147062
+"Drake, 21 Savage, Project Pat",Knife Talk (with 21 Savage ft. Project Pat),10,29,0.849,0.424,5,-9.579,0,0.324,0.0635,0,0.0834,145.887,four,242966
+Ryan Castro,Mujeriego,92,8,0.758,0.621,9,-8.033,1,0.125,0.0628,0,0.0809,79.949,four,142500
+Danny Ocean,Fuera del mercado,122,1,0.453,0.673,8,-5.649,1,0.144,0.32,0,0.131,92.06,four,159849
+"Davi Kneip, Mc Frog, Dj Gabriel do Borel, Luísa Sonza",sentaDONA (Remix) s2,123,1,0.925,0.454,3,-3.533,0,0.273,0.252,4.19E-06,0.128,135.02,four,125245
+Christian Nodal,Ya No Somos Ni Seremos,37,5,0.588,0.452,7,-4.75,1,0.0268,0.437,0,0.344,139.953,four,185723
+"Mora, Bad Bunny, Sech",Volando - Remix,19,37,0.659,0.688,6,-4.649,1,0.0673,0.207,0,0.113,153.979,four,273474
+OneRepublic,Counting Stars,117,54,0.664,0.705,1,-4.972,0,0.0382,0.0654,0,0.118,122.016,four,257267
+C. Tangana,Demasiadas Mujeres,127,3,0.658,0.453,9,-7.378,0,0.39,0.131,0.0002,0.0848,126.043,four,153960
+Nirvana,Smells Like Teen Spirit,109,63,0.489,0.918,1,-4.502,1,0.0554,3.53E-05,7.64E-05,0.0908,116.731,four,300893
+Sia,Unstoppable,112,6,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,173.799,four,217747
+Taylor Swift,Blank Space,130,20,0.76,0.703,5,-5.412,1,0.054,0.103,0,0.0913,95.997,four,231827
+"Luude, Colin Hay",Down Under (feat. Colin Hay),72,10,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,171.835,four,158774
+The Neighbourhood,Daddy Issues,99,76,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,85.012,four,260173
+Bruno Mars,Locked out of Heaven,111,12,0.728,0.697,5,-4.125,1,0.0456,0.0556,0,0.282,143.986,four,233653
+"Eminem, Nate Dogg",'Till I Collapse,81,39,0.548,0.847,1,-3.237,1,0.186,0.0622,0,0.0816,171.447,four,297787
+The Weeknd,Sacrifice,3,11,0.735,0.795,11,-6.523,0,0.113,0.0296,3.18E-05,0.0678,122,four,188918
+"Maroon 5, Wiz Khalifa",Payphone,136,14,0.743,0.752,4,-4.813,1,0.0414,0.0188,0,0.287,110.015,four,231173
+"J Balvin, Bad Bunny",LA CANCIÓN,17,64,0.754,0.646,7,-5.795,1,0.317,0.152,1.85E-05,0.108,176.089,four,242573
+WILLOW,Wait a Minute!,138,1,0.764,0.705,3,-5.279,0,0.0278,0.0371,1.94E-05,0.0943,101.003,four,196520
+"Kevin Gates, Juicy J",Thinking with My Dick (feat. Juicy J),128,2,0.77,0.699,0,-6.59,1,0.199,0.0596,1.65E-05,0.17,81.003,four,165315
+Ed Sheeran,Shape of You,1,269,0.825,0.652,1,-3.183,0,0.0802,0.581,0,0.0931,95.977,four,233713
+Avicii,The Nights,44,54,0.527,0.835,6,-5.298,1,0.0433,0.0166,0,0.249,125.983,four,176658
+"Coolio, L.V.",Gangsta's Paradise,116,22,0.647,0.514,8,-10.05,1,0.0593,0.0655,0,0.398,79.975,four,240693
+Jessica Darrow,"Surface Pressure - From ""Encanto""/Soundtrack Version",23,12,0.652,0.583,2,-8.302,1,0.322,0.0165,1.65E-06,0.042,180.042,four,202227
+Vance Joy,Riptide,122,64,0.484,0.731,1,-6.694,1,0.0379,0.431,0,0.151,101.654,four,204280
+Doja Cat,Get Into It (Yuh),36,34,0.912,0.655,8,-6.029,0,0.162,0.315,3.39E-05,0.0894,91.942,four,138293
+"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),32,23,0.717,0.671,0,-5.077,0,0.0337,0.0018,2.54E-06,0.0921,110.054,four,160657
+Queen,Bohemian Rhapsody - Remastered 2011,11,182,0.414,0.404,0,-9.928,0,0.0499,0.271,0,0.3,71.105,four,354320
+"Sean Paul, Dua Lipa",No Lie,80,34,0.742,0.882,7,-2.862,1,0.117,0.0466,0,0.206,102.04,four,221176
+Zé Felipe,Malvada,58,7,0.894,0.859,5,-2.981,0,0.0471,0.159,0.000153,0.075,134.947,four,145854
+"Tiësto, KAROL G",Don't Be Shy,38,32,0.77,0.787,11,-3.748,0,0.0583,0.198,0,0.262,119.986,four,140500
